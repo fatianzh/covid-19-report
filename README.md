@@ -15,3 +15,4 @@ There are 6 important parts on dashboard:
 5. Chart to explain new cases, new deaths, new recovered, case fatality rate, and case recovered rate everyday.
 6. Bar chart to show the total of deaths in each province per 100.000.
 
+![Challenge_Chapter_1_page-0001](https://github.com/fatianzh/covid-19-report/assets/104208809/9e16a417-93d2-4ed9-bc8d-bccd60418ada)
